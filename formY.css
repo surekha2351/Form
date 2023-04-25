@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://wallpapertag.com/wallpaper/full/7/3/8/350870-amazing-website-background-1920x1080.jpg");
+    background-size: cover;
+    height: 150vh;
+    padding: 20px;
+}
+
+.container {
+    background-color: white;
+    background-size: cover;
+    height: 140vh;
+    padding: 20px;
+}
+
+.form-heading {
+    font-family: "Roboto";
+    font-size: 36px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 700;
+    color: #f472b6;
+    text-shadow: -1px 0 #38bdf8, 0 1px #38bdf8, 1px 0 #38bdf8, 0 -1px #38bdf8;
+}
+
+.mb-3 {
+    font-family: lobster;
+    color: black;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px 1px #38bdf8;
+}
+
+.button {
+    background-color: #818cf8;
+
+}
